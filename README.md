@@ -1,5 +1,8 @@
 # projeto_cripto_alura
 
+## **QR_Code do Site**
+![riptogrAlura ONE](img/qrcode_criptoalura.svg)
+
 <img src="img/imagem_projeto.png" alt="Imagem do Projeto">
 
 > Este projeto foi desenvolvido como parte do curso da Alura sobre criptografia de palavras. Através deste projeto, pude aplicar o conhecimento adquirido nas aulas e criar uma solução funcional para criptografar palavras.
@@ -36,7 +39,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <CriptogrAlura ONE - V.1.2023>
 
-Para instalar o < CriptogrAlura ONE - V.1.2023 >, siga estas etapas:
+Para instalar o <CriptogrAlura ONE - V.1.2023>, siga estas etapas:
 
 ## Como Executar o Projeto (Windows)
 
