@@ -18,6 +18,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 O Criptografador de Palavras é uma aplicação simples que permite ao usuário criptografar uma palavra de acordo com um algoritmo de criptografia escolhido. A aplicação oferece diferentes opções de algoritmos para escolha a substituição de vogais nas palavras digitadas pelos usuários, permitindo que ele utilize essa página para criar suas próprias palavras criptogradas.
 
+<img src="img/qrcode_criptoalura.png" alt="QrCode Projeto" >
+
 ## 📝 Funcionalidades
 
 * Criptografar uma palavra ou texto: O usuário pode digitar uma palavra ou texto no campo de entrada e selecionar um algoritmo de criptografia para transformar a palavra em uma sequência criptografada.
@@ -134,8 +136,5 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo conforme necessário.
-
-![CriptogrAlura ONE - V.1.2023](imgqrcodecriptoalurapng.svg)
-
 
 [⬆ Voltar ao topo](# projeto_cripto_alura)<br>
