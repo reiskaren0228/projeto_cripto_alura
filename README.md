@@ -137,4 +137,7 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo conforme necessário.
 
+![CriptogrAlura ONE - V.1.2023](imgqrcodecriptoalurapng.svg)
+
+
 [⬆ Voltar ao topo](# projeto_cripto_alura)<br>
