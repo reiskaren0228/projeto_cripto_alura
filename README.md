@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <CriptogrAlura ONE - V.1.2023>
 
-Para instalar o < CriptogrAlura ONE - V.1.2023 >, siga estas etapas:
+Para instalar o <CriptogrAlura ONE - V.1.2023>, siga estas etapas:
 
 ## Como Executar o Projeto (Windows)
 
@@ -107,7 +107,7 @@ Para executar o projeto em sistemas Linux ou macOS, siga as etapas abaixo:
 
 ## Agradecimentos
 
-Gostaria de expressar meus sinceros agradecimentos à Alura por oferecer este curso valioso sobre criptografia de palavras. As aulas foram bem estruturadas e forneceram uma base sólida para o desenvolvimento deste projeto. Também gostaria de agradecer aos instrutores e à equipe de suporte da Alura por seu suporte durante o curso, ao @danieldemoura (https://github.com/danieldemoura), aprendi muito no seu vídeo sobre o projeto dele e com isso conseguir finalizar o meu projeto e aprender mais ainda como executar esse projeto.
+Gostaria de expressar meus sinceros agradecimentos à Alura por oferecer este curso valioso sobre criptografia de palavras. As aulas foram bem estruturadas e forneceram uma base sólida para o desenvolvimento deste projeto. Também gostaria de agradecer aos instrutores e à equipe de suporte da Alura por seu suporte durante o curso, ao @danieldemoura (https://github.com/danieldemoura), aprendi muito no seu vídeo sobre o projeto e com isso conseguir corrigir meus erros e finalizar o meu. Com  ele aprendei mais ainda como executar esse projeto.
 
 ## Contribuições
 
