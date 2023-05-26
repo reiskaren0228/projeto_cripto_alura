@@ -1,7 +1,5 @@
 # projeto_cripto_alura
 
-![GitHub repo size](https://github.com/reiskaren0228/projeto_cripto_alura.git)
-
 <img src="img/imagem_projeto.png" alt="Imagem do Projeto">
 
 > Este projeto foi desenvolvido como parte do curso da Alura sobre criptografia de palavras. Através deste projeto, pude aplicar o conhecimento adquirido nas aulas e criar uma solução funcional para criptografar palavras.
