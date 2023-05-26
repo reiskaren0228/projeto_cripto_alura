@@ -1,7 +1,7 @@
 # projeto_cripto_alura
 
 ## **QR_Code do Site**
-![riptogrAlura ONE](img/qrcode_criptoalura.png)
+![riptogrAlura ONE](<img src="img/qrcode_criptoalura.png" alt="qrcode">)
 
 <img src="img/imagem_projeto.png" alt="Imagem do Projeto">
 
